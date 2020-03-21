@@ -5,4 +5,4 @@ rca16.v - 16 bits
 rca24.v - 24 bits
 rcas9.v - 9 bits this is adder as well as subtractor
 
-files with suffix _tb.v are the respective test banches of them
+files with suffix _tb.v are the respective test benches of them
