@@ -5,4 +5,4 @@ rcc4jk.v - 4 bits using jk flip-flop
 
 rcc162.v - 16 bits
 
-files sufixed with _tb.v are respective test benches
+files suffixed with _tb.v are respective test benches
