@@ -1,5 +1,3 @@
-Respective algorithm and circuit verilog codes are in the following folders
-
 # Verilog HDL Code Repository
 
 This repository contains a collection of Verilog HDL codes with corresponding test benches for various digital components and algorithms. These components are fundamental building blocks in digital design and are essential for understanding and developing more complex systems.
