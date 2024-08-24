@@ -1,4 +1,4 @@
-Respective algorithm and circuit verilog codes are in the followinf folders
+Respective algorithm and circuit verilog codes are in the following folders
 
 # Verilog HDL Code Repository
 
