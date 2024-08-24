@@ -46,10 +46,16 @@ Each module is accompanied by a test bench written in Verilog to simulate and va
 main file name and test bench file name are given in instructions of following folders
 
 to see the output:
-  paste codes in c:/iverilog/bin
-  open cmd
-  type "cd c:/iverilog/bin" amd enter
-  type "iverilog -o exec_name test_bench_name.v" and enter
-   ----------eg: iverilog -o rrr rd8_tb.v
-  type "vvp exec_name" and enter
-   ----------eg: vvp rrr
+  - paste codes in c:/iverilog/bin
+  - open cmd
+  - type "cd c:/iverilog/bin" amd enter
+  - type "iverilog -o exec_name test_bench_name.v" and enter
+  - type "vvp exec_name" and enter
+
+### Example
+
+```bash
+cd c:/iverilog/bin
+iverilog -o rrr rd8_tb.v
+vvp rrr
+```
